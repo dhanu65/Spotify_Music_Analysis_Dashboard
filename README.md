@@ -74,10 +74,12 @@ Gauge Chart
 
 📁 Spotify_Music_Analysis_Dashboard/
 │
+
 ├── 📁 dataset/
 
 │   └── dataset.csv
 │
+
 ├── 📁 screenshots/
 
 │   ├── dashboard_page1.png
@@ -86,10 +88,12 @@ Gauge Chart
 
 │   └── dashboard_page3.png
 │
+
 ├── 📁 report/
 
 │   └── Spotify_Music_Analysis_Report.pdf
 │
+
 ├── 📄 Spotify_Music_Analysis_Dashboard.pbix
 
 ├── 📄 Spotify_Artist_Song_Analytics1.pdf
@@ -103,4 +107,5 @@ Dhanushree C
 📅 November 2025
 
 🎯 Project: Spotify Music Analysis using Power BI
+
 
