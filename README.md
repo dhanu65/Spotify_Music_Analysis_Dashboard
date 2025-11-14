@@ -73,12 +73,12 @@ Gauge Chart
 📂 Repository Structure:
 
 📁 Spotify_Music_Analysis_Dashboard/
-│
+
 
 ├── 📁 dataset/
 
 │   └── dataset.csv
-│
+
 
 ├── 📁 screenshots/
 
@@ -87,12 +87,12 @@ Gauge Chart
 │   ├── dashboard_page2.png
 
 │   └── dashboard_page3.png
-│
+
 
 ├── 📁 report/
 
 │   └── Spotify_Music_Analysis_Report.pdf
-│
+
 
 ├── 📄 Spotify_Music_Analysis_Dashboard.pbix
 
@@ -107,5 +107,6 @@ Dhanushree C
 📅 November 2025
 
 🎯 Project: Spotify Music Analysis using Power BI
+
 
 
