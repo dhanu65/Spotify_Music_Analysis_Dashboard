@@ -1,14 +1,19 @@
-🎧 Spotify Music Analysis Dashboard (Power BI)
+## 🎧 Spotify Music Analysis Dashboard (Power BI)
 
-📊 Project Overview:
+## 📊 Project Overview:
 
 This Power BI dashboard provides an in-depth analysis of Spotify music data, exploring relationships between artists, genres, and track attributes like popularity, energy, and danceability.
 
 The dashboard offers valuable insights into how different music features contribute to a track’s success and highlights patterns in artist performance, genre dominance, and musical styles.
 
-🌿 Dashboard Features
+## 📸 Dashboard Preview
 
-🟩 Overview Section:
+![Spotify Dashboard](screenshots/dashboard_page1.png)
+
+
+## 🌿 Dashboard Features
+
+## 🟩 Overview Section:
 
 Total Songs: Total number of tracks analyzed
 
@@ -18,7 +23,7 @@ Top Artist: Artist with the highest track representation
 
 Top Genre: Most dominant genre in the dataset
 
-📈 Trend & Distribution Analysis:
+## 📈 Trend & Distribution Analysis:
 
 Song Popularity Trend: Line chart showing popularity changes over time
 
@@ -26,7 +31,7 @@ Energy vs Danceability (Bubble Chart): Relationship between these attributes acr
 
 Top Genres by Popularity: Ranking of genres based on average popularity
 
-🎨 Genre & Artist Insights:
+## 🎨 Genre & Artist Insights:
 
 Most Frequent Genres (Word Cloud): Visual distribution of genres
 
@@ -38,7 +43,7 @@ Danceability Spread (Violin Plot): Distribution of danceability across genres
 
 Average Energy (Gauge Chart): Shows overall energy level of tracks
 
-🌟 Key Insights:
+## 🌟 Key Insights:
 
 🎤 Martin Garrix emerged as the top artist in the dataset
 
@@ -50,7 +55,7 @@ Average Energy (Gauge Chart): Shows overall energy level of tracks
 
 🎵 Genres like rock and dance appear most frequently
 
-🔧 Tools & Technologies:
+## 🔧 Tools & Technologies:
 
 Power BI Desktop — Dashboard design & visualization
 
@@ -70,7 +75,7 @@ Radar Chart
 
 Gauge Chart
 
-📂 Repository Structure:
+## 📂 Repository Structure:
 
 📁 Spotify_Music_Analysis_Dashboard/
 
@@ -100,13 +105,14 @@ Gauge Chart
 
 └── 📄 README.md
 
-👩‍💻 Developed By:
+## 👩‍💻 Developed By:
 
 Dhanushree C
 
 📅 November 2025
 
 🎯 Project: Spotify Music Analysis using Power BI
+
 
 
 
