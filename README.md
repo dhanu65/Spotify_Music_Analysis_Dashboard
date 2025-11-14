@@ -6,7 +6,7 @@ This Power BI dashboard provides an in-depth analysis of Spotify music data, exp
 
 The dashboard offers valuable insights into how different music features contribute to a track’s success and highlights patterns in artist performance, genre dominance, and musical styles.
 
-## 📸 Dashboard Preview
+## 📸 Dashboard Preview:
 
 ![Spotify Dashboard](screenshots/dashboard_page1.png)
 
@@ -112,6 +112,7 @@ Dhanushree C
 📅 November 2025
 
 🎯 Project: Spotify Music Analysis using Power BI
+
 
 
 
